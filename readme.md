@@ -3,7 +3,7 @@
 - [X] Github username/account
 - [ ] Create a new file from the CLI
 - [ ] Delete a new file from the CLI
-- [ ] Create a new folder from the CLI
+- [X] Create a new folder from the CLI
 - [ ] Delete a new folder from the CLI
 - [ ] Create a HTML file in a folder from the CLI 
 - [ ] Create a CSS file in a folder from the CLI
