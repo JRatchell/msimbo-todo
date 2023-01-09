@@ -26,10 +26,10 @@
 ***
 
 ### HTML
-- [ ] I can design a semantic HTML table
-- [ ] I can design a semantic HTML form
-- [ ] I can design a semantic div's
-- [ ] I can write semantic headers
+- [X] I can design a semantic HTML table
+- [X] I can design a semantic HTML form
+- [X] I can design a semantic div's
+- [X] I can write semantic headers
 
 ***
 
@@ -37,7 +37,7 @@
 - [X] I can import external stylesheets
 - [X] I can target attributes with CSS
 - [X] I can design typography with CSS
-- [ ] I can design layouts with CSS
+- [X] I can design layouts with CSS
 
 *** 
 
